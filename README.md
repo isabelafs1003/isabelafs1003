@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 DEV Full Stack em formação
-- 🌱 Estou aprendendo HTML, CSS, Java Script e Python
+- 🌱 Estou aprendendo HTML, CSS, JavaScript e Python
 - 👯 Estou disposta a colaborar com projetos.
 - ⚡ Estou sempre buscando aprender coisas novas e resolver problemas.
 
